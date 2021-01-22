@@ -1,4 +1,4 @@
-# TechnologieInformacyjne1
+# Technologie Informacyjne 1
 
 Materiały testowe na potrzeby laboratorium Technologie Informacyjne na Politechnice Poznańskiej.
 
